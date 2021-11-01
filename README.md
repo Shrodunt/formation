@@ -32,7 +32,11 @@ What Does It Do?
 - Model Buy Bot
 - PM Spammer
 - etc. 
+# Polytoria
 
+- Limited Sniper
+- Beta Admin Panel
+- Anti Ban
 
 # Others
 
@@ -48,3 +52,4 @@ What Does It Do?
 - Advantage Roblox Tool ( Beta , Created By Me )
 - Credit Card Gen ( Made By Tooreex )
 - Re DDOS ( Made By Me )
+- Zerox ( Made By Me )
